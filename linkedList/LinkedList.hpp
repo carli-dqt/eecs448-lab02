@@ -38,8 +38,6 @@ int LinkedList<T>::size() const
 	}
 
 	return(listSize);
-
-	return(0);
 }
 
 template <typename T>
